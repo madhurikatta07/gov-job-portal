@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gov-job-portal/static/css/main.386a745f.css",
-    "main.js": "/gov-job-portal/static/js/main.4c383a81.js",
+    "main.js": "/gov-job-portal/static/js/main.9d59e8e3.js",
     "index.html": "/gov-job-portal/index.html",
     "main.386a745f.css.map": "/gov-job-portal/static/css/main.386a745f.css.map",
-    "main.4c383a81.js.map": "/gov-job-portal/static/js/main.4c383a81.js.map"
+    "main.9d59e8e3.js.map": "/gov-job-portal/static/js/main.9d59e8e3.js.map"
   },
   "entrypoints": [
     "static/css/main.386a745f.css",
-    "static/js/main.4c383a81.js"
+    "static/js/main.9d59e8e3.js"
   ]
 }
